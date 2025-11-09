@@ -15,7 +15,6 @@ Sou Desenvolvedor Web com experiência na criação de interfaces modernas, din�
 
 Atualmente, estou direcionando meu foco para o desenvolvimento back-end, aprimorando minhas habilidades com Node.js, SQL e Prisma para construir aplicações completas e escaláveis.
 
-Tenho como objetivo unir performance e boas práticas em cada projeto, buscando sempre evoluir tecnicamente e contribuir com soluções inovadoras e de impacto.
 ---
 
 ### 🧰 Tecnologias & Ferramentas
