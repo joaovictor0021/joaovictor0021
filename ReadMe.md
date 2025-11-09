@@ -28,5 +28,5 @@ Atualmente, estou direcionando meu foco para o desenvolvimento back-end, aprimor
 <div align="left">
   💼 <a href="https://www.linkedin.com/in/joaovictor" target="_blank">LinkedIn</a><br/>
   🌐 <a href="https://joaovictor.dev" target="_blank">Portfólio</a><br/>
-  ✉️ <strong>jvprogramation@gmail.com</strong>
+  ✉️ <a href="mailto:jvprogramation@gmail.com"><strong>jvprogramation@gmail.com</strong></a>
 </div>
