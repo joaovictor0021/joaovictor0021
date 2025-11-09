@@ -25,7 +25,7 @@ Atualmente, estou direcionando meu foco para o desenvolvimento back-end, aprimor
 
 ---
 
-<div align="left" style="display: flex; flex-direction: column; gap: 6px;">
+<div style="display: flex; flex-direction: column; gap: 6px;">
   💼 <a href="https://www.linkedin.com/in/joaovictor" target="_blank">LinkedIn</a>  
   🌐 <a href="https://joaovictor.dev" target="_blank">Portfólio</a>  
   ✉️ <strong>jvprogramation@gmail.com</strong>
