@@ -25,19 +25,8 @@ Busco sempre aprender novas tecnologias e aplicar boas práticas de desenvolvime
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovictor0021&show_icons=true&include_all_commits=true&count_private=true&theme=radical&title_color=9b5de5&icon_color=9b5de5&text_color=ffffff&bg_color=0d1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictor0021&layout=compact&theme=radical&title_color=9b5de5&text_color=ffffff&bg_color=0d1117" />
-</div>
-
-### 📫 Onde me encontrar
-
 <div align="left">
-  
 - 💼 <a href="https://www.linkedin.com/in/joaovictor">LinkedIn</a>  
 - 🌐 <a href="https://joaovictor.dev">Portfólio</a>  
 - ✉️ **jvprogramation@gmail.com**
-
 </div>
