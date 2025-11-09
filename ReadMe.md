@@ -11,10 +11,11 @@
 
 ### 🧠 Sobre mim
 
-Sou desenvolvedor front-end com foco em criar interfaces modernas e funcionais.  
-Atualmente estudo **Node.js e MongoDB** para me aprofundar também no back-end e evoluir como desenvolvedor full stack.  
-Busco sempre aprender novas tecnologias e aplicar boas práticas de desenvolvimento.
+Sou Desenvolvedor Web com experiência na criação de interfaces modernas, dinâmicas e responsivas utilizando React, TypeScript, JavaScript, Material UI, Tailwind CSS e Yup.
 
+Atualmente, estou direcionando meu foco para o desenvolvimento back-end, aprimorando minhas habilidades com Node.js, SQL e Prisma para construir aplicações completas e escaláveis.
+
+Tenho como objetivo unir performance e boas práticas em cada projeto, buscando sempre evoluir tecnicamente e contribuir com soluções inovadoras e de impacto.
 ---
 
 ### 🧰 Tecnologias & Ferramentas
