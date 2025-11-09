@@ -28,19 +28,9 @@ Busco sempre aprender novas tecnologias e aplicar boas práticas de desenvolvime
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovictor0021&show_icons=true&theme=radical&title_color=9b5de5&icon_color=9b5de5&text_color=ffffff&bg_color=0d1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovictor0021&show_icons=true&include_all_commits=true&count_private=true&theme=radical&title_color=9b5de5&icon_color=9b5de5&text_color=ffffff&bg_color=0d1117" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictor0021&layout=compact&theme=radical&title_color=9b5de5&text_color=ffffff&bg_color=0d1117" />
 </div>
-
----
-
-### 🚀 Projetos em destaque
-
-- 🧾 **[TopRecibos](https://github.com/joaovictor0021/toprecibos)** — Sistema para cálculos de férias, folha e recibos.
-- ⚖️ **[Gestão de Perícias](https://github.com/joaovictor0021/gestao-pericias)** — Sistema completo para gerenciamento de perícias.
-- 🌐 **[Portfólio Pessoal](https://github.com/joaovictor0021/portfolio)** — Meu portfólio de desenvolvedor.
-
----
 
 ### 📫 Onde me encontrar
 
@@ -48,11 +38,6 @@ Busco sempre aprender novas tecnologias e aplicar boas práticas de desenvolvime
   
 - 💼 <a href="https://www.linkedin.com/in/joaovictor">LinkedIn</a>  
 - 🌐 <a href="https://joaovictor.dev">Portfólio</a>  
-- ✉️ **joaovictor.dev@gmail.com**
+- ✉️ **jvprogramation@gmail.com**
 
 </div>
-
----
-
-### 💜 “Código limpo é poesia em movimento.”  
-<p align="center">Feito com 💜 e muito café ☕</p>
